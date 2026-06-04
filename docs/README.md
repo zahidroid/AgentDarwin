@@ -497,21 +497,21 @@ python main.py
 
 ---
 
-## Future Work
+## Future Work im gonna do/ working now
 
-### Near-term (Q3 2026)
+### Near-term 
 - [ ] **Multi-Task Learning**: Evolve agents across multiple domains simultaneously
 - [ ] **Trait Combinations**: Discover synergistic trait interactions
 - [ ] **Visualization Dashboard**: Real-time evolution metrics & genome tracking
 - [ ] **Hyperparameter Optimization**: Auto-tune mutation rates, population size
 
-### Medium-term (Q4 2026)
+### Medium-term
 - [ ] **Hierarchical Agents**: Meta-agents that manage sub-agent populations
 - [ ] **Transfer Learning**: Reuse evolved genomes across task domains
 - [ ] **Distributed Evolution**: Parallel generation evaluation on compute clusters
 - [ ] **Benchmark Suite**: Standard tasks for comparing evolution algorithms
 
-### Long-term (2027+)
+### Long-term 
 - [ ] **Self-Improving Systems**: Agents that modify their own evaluation criteria
 - [ ] **Cross-Modal Genomes**: Agents with vision, language, reasoning traits
 - [ ] **Energy-Efficient Evolution**: Optimize for compute cost, not just solution quality
@@ -567,6 +567,10 @@ Expert Ensembling  | 78    | 80    | 81    | 82    | 0.9x (diminishing returns)
 
 
 ## Acknowledgments
+Built by : 
+Mohammed Abdul Zahid
+zahidmohammed783@gmail.com
++91 9985004854
 
 Inspired by:
 - Evolutionary computation theory (Holland, Goldberg)
