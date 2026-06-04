@@ -1,0 +1,28 @@
+flowchart TD
+
+A[Agent Genomes]
+--> B[Prompt Builder]
+
+B --> C[LLM Generation]
+
+C --> D[Global Judge]
+
+D --> E[Ranking System]
+
+E --> F[Winner Memory]
+
+F --> G[Lesson Synthesizer]
+
+F --> H[Rule Extractor]
+
+F --> I[Trait Analyzer]
+
+G --> J[Adaptive Mutation]
+
+H --> J
+
+I --> J
+
+J --> K[Next Generation]
+
+K --> B

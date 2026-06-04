@@ -1,0 +1,119 @@
+[
+    {
+        "generation": 1,
+        "best_score": 89,
+        "winner": "Agent_5",
+        "trait_snapshot": {
+            "creativity": 4,
+            "risk": 9,
+            "depth": 56,
+            "skepticism": 32,
+            "execution_focus": 40
+        }
+    },
+    {
+        "generation": 1,
+        "best_score": 94,
+        "winner": "Agent_1",
+        "trait_snapshot": {
+            "creativity": 91,
+            "risk": 4,
+            "depth": 98,
+            "skepticism": 65,
+            "execution_focus": 46
+        }
+    },
+    {
+        "generation": 1,
+        "best_score": 94,
+        "winner": "Agent_3",
+        "trait_snapshot": {
+            "creativity": 82,
+            "risk": 34,
+            "depth": 52,
+            "skepticism": 87,
+            "execution_focus": 34
+        }
+    },
+    {
+        "generation": 1,
+        "best_score": 94,
+        "winner": "Agent_2",
+        "trait_snapshot": {
+            "creativity": 16,
+            "risk": 46,
+            "depth": 80,
+            "skepticism": 45,
+            "execution_focus": 87
+        }
+    },
+    {
+        "generation": 1,
+        "best_score": 94,
+        "winner": "Agent_4",
+        "trait_snapshot": {
+            "creativity": 70,
+            "risk": 42,
+            "depth": 28,
+            "skepticism": 91,
+            "execution_focus": 79
+        }
+    },
+    {
+        "generation": 2,
+        "best_score": 96,
+        "winner": "Child_2",
+        "trait_snapshot": {
+            "creativity": 51,
+            "risk": 52,
+            "depth": 60,
+            "skepticism": 41,
+            "execution_focus": 59
+        }
+    },
+    {
+        "generation": 2,
+        "best_score": 92,
+        "winner": "Agent_2",
+        "trait_snapshot": {
+            "creativity": 16,
+            "risk": 46,
+            "depth": 80,
+            "skepticism": 45,
+            "execution_focus": 87
+        }
+    },
+    {
+        "generation": 2,
+        "best_score": 37,
+        "winner": "Child_3",
+        "trait_snapshot": {
+            "creativity": 91,
+            "risk": 50,
+            "depth": 93,
+            "skepticism": 73,
+            "execution_focus": 35
+        }
+    },
+    {
+        "generation": 1,
+        "best_score": 94,
+        "winner": "Agent_4",
+        "population_scores": [
+            94.0,
+            90.0,
+            87.0,
+            86.0,
+            84.0
+        ],
+        "trait_snapshot": {
+            "creativity": 99,
+            "risk": 27,
+            "depth": 48,
+            "skepticism": 30,
+            "execution_focus": 41
+        },
+        "diversity_score": 3.4871,
+        "task": "Design an AI interview preparation platform."
+    }
+]
