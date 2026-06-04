@@ -5,7 +5,6 @@
 **An experimental framework for evolving AI agents through adaptive mutation, global evaluation, and multi-generational learning.**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research](https://img.shields.io/badge/Status-Research-orange)]()
 
 [Features](#key-features) • [Architecture](#architecture-overview) • [Quick Start](#quick-start) • [Results](#example-results) • [Citation](#citation)
